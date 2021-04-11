@@ -1,0 +1,36 @@
+
+#scoreText {
+    border: 0.5px solid rgba(0, 0, 0, 0.2);
+
+    padding: 6px 8px 6px 8px;
+
+}
+h1 {
+    display: inline;
+}
+body {
+    margin-top: 50px;
+}
+section {
+    padding: 0%;
+    width: 500px;
+    margin: 0 auto;
+    border: 0.5px solid rgba(0, 0, 0, 0.2);
+    height: auto;
+    display: flex;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+h4 {
+    display: inline;
+}
+div.text {
+    padding: 8px;
+}
+.btn-group {
+    width: 500px;
+
+}
